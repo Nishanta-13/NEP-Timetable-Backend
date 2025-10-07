@@ -1,0 +1,11 @@
+id,prof,groups,sessions_per_week
+Math,P1,"G1,G2",4
+EM,P2,"G1",4
+PE,P2,"G1",4
+MPMC,P3,"G1,G2",3
+DSP,P1,"G1,G2",4
+ECE,P9,"G2",4
+BE,P3,"G2,G3",4
+Eng,P5,"G3",3
+Bio,P6,"G3,G3",3
+AI,P8,"G3,G2",4
